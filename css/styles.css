@@ -50,6 +50,7 @@ html {
 body, p {
 	color: #787976; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
+	font-display: swap;
 }
 
 h1 {
@@ -926,6 +927,7 @@ input[type='checkbox'] {
 	margin-bottom: 0.25rem;
 	color: #484a46;
 	font: 600 0.875rem/1.25rem "Open Sans", sans-serif;
+	font-display: swap;
 }
 
 .tabs #tab-1 .progress {
@@ -1280,6 +1282,7 @@ input[type='checkbox'] {
 	color: #ffffff;
 	opacity: 1;
 	font-family: "Open Sans";
+	font-display: swap;
 }
 
 .lightbox-basic .btn-solid-reg.mfp-close:hover {
@@ -1300,6 +1303,7 @@ input[type='checkbox'] {
 	color: #484a46;
 	opacity: 1;
 	font-family: "Open Sans";
+	font-display: swap;
 }
 
 .lightbox-basic .btn-outline-reg.mfp-close.as-button:hover {
